@@ -1,0 +1,32 @@
+ node js
+1 + 1 = 
+node.js
+nodejs
+node
+node
+node
+node
+node
+node
+PWS
+PWD
+LS
+clear
+cd
+CD
+ clear
+ls
+cd Desktop
+clear
+cd . .
+cd ..
+makeadir 
+ls
+cd desktop
+mkdir bruna
+rm bruna
+rm -d bruna
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew install git

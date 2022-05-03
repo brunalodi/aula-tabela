@@ -1,0 +1,17 @@
+git config--global user.name "brunalodi"
+brew install git
+brew install git
+$ brew install git
+$/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+📋
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+ git config --global user.name "Bruna Lodi"
+$ git config --global user.name "Bruna Lodi"
+$ git config --global user.name "Bruna Lodi"
+git config --global user.name "Bruna Lodi"
+git config --global user.name "Bruna Lodi"
+git config--global user.email "brunalodii@gmail.com"
+$ git config --global user.email "brunalodii@gmail.com"
+git config --global user.email "brunalodii@gmail.com"
+git config --global user.email "brunalodii@gmail.com"
+git config --list
